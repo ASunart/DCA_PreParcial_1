@@ -1,0 +1,16 @@
+.task{
+    background-color: aqua;
+    padding: 12px;
+    border-radius: 16px;
+    margin-bottom: 12px;
+    width: 50%;
+}
+
+.completed {
+    background-color: greenyellow;
+    padding: 12px;
+    border-radius: 16px;
+    margin-bottom: 12px;
+    width: 50%;
+    text-decoration: line-through;
+}
